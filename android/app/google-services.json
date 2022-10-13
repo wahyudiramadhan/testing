@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59286599870",
+    "project_id": "the-sciene",
+    "storage_bucket": "the-sciene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59286599870:android:412ae0839ff11e045dc6ef",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59286599870-oj899027tgo7mvlm86m0nv465e032om6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEV-ZMc_Qs0yR69XgN0JYntFJ7o-zJZag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59286599870-oj899027tgo7mvlm86m0nv465e032om6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
